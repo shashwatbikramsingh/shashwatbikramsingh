@@ -13,7 +13,7 @@ I’m continuously strengthening my skills in **Python, Java, Data Structures & 
 
 **AlertNet** — A disaster preparedness and response platform designed to improve emergency awareness, coordination, and access to critical information.
 
-I’m driven by a continuous-learning mindset and enjoy turning ideas into well-engineered products through **software development, system thinking, problem-solving, hackathons, and hands-on projects**. I’m particularly interested in growing toward roles involving **software engineering, backend systems, data engineering, and machine learning**, while continuously expanding my technical depth and building software that solves meaningful real-world problems.
+I’m driven by a continuous-learning mindset and enjoy turning ideas into well-engineered products through **software development, system thinking, problem-solving, hackathons, and hands-on projects**. I’m particularly interested in growing toward roles involving **software engineering, backend systems, data engineering, and machine learning**, while continuously expanding my technical depth and building software that solves meaningful real-world problems. i would gladly like to collabe with open source
 
 
 
