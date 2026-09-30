@@ -1,5 +1,20 @@
 #  About Me:
-I’m a Computer Science Engineering student at Jain (Deemed-to-be University), Bangalore, passionate about building practical software and exploring Artificial Intelligence, Machine Learning, Data Engineering, and modern web development.<br><br>I’m currently strengthening my skills in Python, Java, Data Structures & Algorithms, React, Next.js, and full-stack development. I enjoy turning ideas into real-world products and continuously improving my problem-solving and software engineering skills through projects, hackathons, and hands-on learning.<br><br> Featured Projects<br><br>MEDEQUIP — A modern medical-supplies e-commerce platform focused on a smooth, secure, and user-friendly shopping experience.<br><br>Ghumau — A Nepal-focused travel platform designed to help travelers discover destinations, compare budgets, explore stays, and share travel experiences.<br><br>HackMate — A developer-focused platform for discovering hackathons, finding teammates based on skills, and collaborating to build projects together.<br><br>AlertNet — A disaster preparedness and response platform designed to improve awareness, coordination, and access to essential emergency information.<br><br>I’m always exploring new technologies, building meaningful projects, participating in hackathons, and looking for opportunities to learn, collaborate, and create impactful solutions with more coming/
+I’m a Computer Science Engineering student at Jain (Deemed-to-be University), Bangalore, focused on building scalable, practical software and developing strong foundations in software engineering, data systems, machine learning, and modern web development.
+
+I’m continuously strengthening my skills in **Python, Java, Data Structures & Algorithms, React, Next.js, backend development, databases, and full-stack engineering**. I enjoy working across the software development lifecycle — from designing interfaces and building APIs to structuring applications, solving engineering problems, and improving performance, reliability, and user experience.
+
+### Featured Projects
+
+**MEDEQUIP** — A modern medical-supplies e-commerce platform designed with a focus on scalable architecture, secure transactions, intuitive user experience, and reliable product and order management.
+
+**Ghumau** — A Nepal-focused travel platform that helps users discover destinations, compare budgets, explore stays, and share travel experiences through a unified digital experience.
+
+**HackaMate** — A developer-focused platform for discovering hackathons, finding teammates based on skills and interests, and collaborating to build projects together.
+
+**AlertNet** — A disaster preparedness and response platform designed to improve emergency awareness, coordination, and access to critical information.
+
+I’m driven by a continuous-learning mindset and enjoy turning ideas into well-engineered products through **software development, system thinking, problem-solving, hackathons, and hands-on projects**. I’m particularly interested in growing toward roles involving **software engineering, backend systems, data engineering, and machine learning**, while continuously expanding my technical depth and building software that solves meaningful real-world problems.
+
 
 
 ## 🌐 Socials:
